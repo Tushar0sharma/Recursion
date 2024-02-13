@@ -1,0 +1,16 @@
+Monu bhaiya is given a string s, his task is to remove duplicate letters so that every letter appears once and only once. he must make sure his result is the smallest in lexicographical order among all possible results.
+
+Input Format
+String
+
+Constraints
+1 <= s.length <= 104
+s consists of lowercase English letters.
+
+Output Format
+Print resulting string
+
+Sample Input
+bcabc
+Sample Output
+abc
